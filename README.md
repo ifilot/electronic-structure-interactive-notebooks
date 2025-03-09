@@ -16,5 +16,4 @@ find a list of all the interactive notebooks.
 
 **Chapter 1:**
 
-* [Test notebook - try out](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter01%2Ftest.ipynb)
 * [Completeness demo](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter01%2Fcompleteness-demo.ipynb)
