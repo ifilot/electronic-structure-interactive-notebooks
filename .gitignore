@@ -1,0 +1,46 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook temporary files
+*.~nb
+*.ipynb~ 
+*.nbconvert.ipynb 
+
+# Ignore execution metadata from Jupyter (optional)
+**/.pytest_cache/
+**/__pycache__/
+**/.mypy_cache/
+**/.ruff_cache/
+
+# Ignore large Jupyter Notebook output if needed
+# Uncomment the next line if you want to exclude notebooks with large outputs
+# *-output.ipynb
+
+# Ignore Python virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Ignore data and model artifacts
+*.h5
+*.hdf5
+*.pkl
+*.csv
+*.tsv
+*.json
+*.log
+*.db
+
+# Ignore VS Code settings (optional)
+.vscode/
+settings.json
+
+# Ignore system files (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore large files tracked by Git LFS (optional)
+*.model
+*.weights
+*.ckpt
