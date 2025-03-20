@@ -14,6 +14,10 @@ find a list of all the interactive notebooks.
 
 ## Notebooks
 
-**Chapter 1:**
+### Chapter 1
 
 * [Completeness demo](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter01%2Fcompleteness-demo.ipynb)
+* [Parametric variational method](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter01%2Fparametric-variational-method.ipynb)
+* [Linear variational method](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter01%2Flinear-variational-method.ipynb)
+
+### Chapter 2
