@@ -12,6 +12,10 @@ find a list of all the interactive notebooks.
 > * For more information about the course book and other associated electronic
 >   resources, please visit [this link](https://ifilot.pages.tue.nl/elements-of-electronic-structure-theory/index.html)
 
+> [!NOTE]
+> Spot a mistake in any of the notebooks? Please 
+> [raise van issue](https://github.com/ifilot/electronic-structure-interactive-notebooks/issues/new).
+
 ## Local installation
 
 > [!NOTE]
