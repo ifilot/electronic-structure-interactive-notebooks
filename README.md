@@ -66,3 +66,5 @@ For the **best performance and stability**, we recommend downloading the noteboo
 * [Linear variational method](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter01%2Flinear-variational-method.ipynb)
 
 ### Chapter 2
+
+* [Visualization of atomic orbitals](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter02%2Fatomic-orbital-visualization.ipynb)
