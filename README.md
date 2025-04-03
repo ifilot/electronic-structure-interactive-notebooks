@@ -1,5 +1,12 @@
 # Interactive Notebooks for Element of Electronic Structure Theory
 
+## Table of Contents
+- [Purpose](#purpose)
+- [Local installation](#local-installation)
+- [Interactive notebooks via MyBinder.org](#interactive-notebooks-via-mybinderorg)
+  - [Chapter 1](#chapter-1)
+  - [Chapter 2](#chapter-2)
+
 ## Purpose
 
 This repository contains a series of interactive Jupyter notebooks to showcase
