@@ -68,3 +68,4 @@ For the **best performance and stability**, we recommend downloading the noteboo
 ### Chapter 2
 
 * [Visualization of atomic orbitals](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter02%2Fatomic-orbital-visualization.ipynb)
+* [Finding atomic orbitals via linear variational principle](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter02%2Fatomic-orbital-minimization.ipynb)
