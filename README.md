@@ -23,7 +23,7 @@ find a list of all the interactive notebooks.
 
 > [!NOTE]
 > Spot a mistake in any of the notebooks? Please 
-> [raise van issue](https://github.com/ifilot/electronic-structure-interactive-notebooks/issues/new).
+> [raise an issue](https://github.com/ifilot/electronic-structure-interactive-notebooks/issues/new).
 
 ## Local installation
 
