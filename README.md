@@ -87,3 +87,8 @@ more responsive coding experience overall.
 
 * [Visualization of atomic orbitals](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter02%2Fatomic-orbital-visualization.ipynb)
 * [Finding atomic orbitals via linear variational principle](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter02%2Fatomic-orbital-minimization.ipynb)
+
+### Chapter 3
+
+* [Performing Hartree-Fock calculations](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter03%2Fhf-calculations.ipynb)
+* [Orbital localization using unitary transformations](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter03%2Funitary-transformations.ipynb)
