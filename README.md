@@ -7,6 +7,8 @@
   - [Chapter 1](#chapter-1)
   - [Chapter 2](#chapter-2)
 
+![screen shot of Jupyter notebook](img/screenshot01.jpg)
+
 ## Purpose
 
 This repository contains a series of interactive Jupyter notebooks to showcase
@@ -90,5 +92,5 @@ more responsive coding experience overall.
 
 ### Chapter 3
 
-* [Performing Hartree-Fock calculations](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter03%2Fhf-calculations.ipynb)
+* [Performing Hartree-Fock calculations](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter03%2Fhf-calculation.ipynb)
 * [Orbital localization using unitary transformations](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter03%2Funitary-transformations.ipynb)
