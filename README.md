@@ -94,3 +94,7 @@ more responsive coding experience overall.
 
 * [Performing Hartree-Fock calculations](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter03%2Fhf-calculation.ipynb)
 * [Orbital localization using unitary transformations](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter03%2Funitary-transformations.ipynb)
+
+### Chapter 4
+
+* [Performing Density Functional Theory calculations](https://mybinder.org/v2/gh/ifilot/electronic-structure-interactive-notebooks/master?urlpath=%2Fdoc%2Ftree%2Fchapter03%2Fdft-calculation.ipynb)
